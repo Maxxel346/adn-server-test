@@ -1,0 +1,97 @@
+{
+    "Ethernet 2": [
+      {
+        address: "fe80::acba:a3ce:3d49:67fb",
+        netmask: "ffff:ffff:ffff:ffff::",
+        family: "IPv6",
+        mac: "0a:00:27:00:00:0c",
+        internal: false,
+        cidr: "fe80::acba:a3ce:3d49:67fb/64",
+        scopeid: 12
+      },
+      {
+        address: "192.168.56.1",
+        netmask: "255.255.255.0",
+        family: "IPv4",
+        mac: "0a:00:27:00:00:0c",
+        internal: false,
+        cidr: "192.168.56.1/24"
+      }
+    ],
+    "VMware Network Adapter VMnet1": [
+      {
+        address: "fe80::7e3:6c0:bebc:97f",
+        netmask: "ffff:ffff:ffff:ffff::",
+        family: "IPv6",
+        mac: "00:50:56:c0:00:01",
+        internal: false,
+        cidr: "fe80::7e3:6c0:bebc:97f/64",
+        scopeid: 23
+      },
+      {
+        address: "192.168.80.1",
+        netmask: "255.255.255.0",
+        family: "IPv4",
+        mac: "00:50:56:c0:00:01",
+        internal: false,
+        cidr: "192.168.80.1/24"
+      }
+    ],
+    "VMware Network Adapter VMnet8": [
+      {
+        address: "fe80::4584:209e:2c64:7e76",
+        netmask: "ffff:ffff:ffff:ffff::",
+        family: "IPv6",
+        mac: "00:50:56:c0:00:08",
+        internal: false,
+        cidr: "fe80::4584:209e:2c64:7e76/64",
+        scopeid: 5
+      },
+      {
+        address: "192.168.218.1",
+        netmask: "255.255.255.0",
+        family: "IPv4",
+        mac: "00:50:56:c0:00:08",
+        internal: false,
+        cidr: "192.168.218.1/24"
+      }
+    ],
+    "Wi-Fi": [
+      {
+        address: "fe80::b8a3:d286:161a:93a3",
+        netmask: "ffff:ffff:ffff:ffff::",
+        family: "IPv6",
+        mac: "24:ee:9a:59:be:01",
+        internal: false,
+        cidr: "fe80::b8a3:d286:161a:93a3/64",
+        scopeid: 6
+      },
+      {
+        address: "192.168.1.12",
+        netmask: "255.255.255.0",
+        family: "IPv4",
+        mac: "24:ee:9a:59:be:01",
+        internal: false,
+        cidr: "192.168.1.12/24"
+      }
+    ],
+    "Loopback Pseudo-Interface 1": [
+      {
+        address: "::1",
+        netmask: "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        family: "IPv6",
+        mac: "00:00:00:00:00:00",
+        internal: true,
+        cidr: "::1/128",
+        scopeid: 0
+      },
+      {
+        address: "127.0.0.1",
+        netmask: "255.0.0.0",
+        family: "IPv4",
+        mac: "00:00:00:00:00:00",
+        internal: true,
+        cidr: "127.0.0.1/8"
+      }
+    ]
+  }

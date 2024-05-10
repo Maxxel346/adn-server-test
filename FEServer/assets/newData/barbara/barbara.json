@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Barbara",
+        "description": "Barbara is a healer who can heal her teammates and herself. She can also deal Hydro DMG to enemies.",
+        "longDescription": "Barbara is a healer who can heal her teammates and herself. She can also deal Hydro DMG to enemies. Her Elemental Skill, Let the Show Begin, deals Hydro DMG to enemies and heals all party members. Her Elemental Burst, Shining Miracle, heals all party members and gives them a buff that increases their incoming healing for a short duration.",
+        "genres": [
+            "Healing",
+            "Hydro DMG",
+            "Support"
+        ]
+    }
+]
